@@ -18,7 +18,7 @@ role: 김경현
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ph.D. Student | Chung-Ang University
+  - name: Ph.D. Student at Chung-Ang University
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
