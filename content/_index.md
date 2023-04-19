@@ -56,11 +56,9 @@ sections:
         # country: South Korea
         country_code: KR
       directions: Room# 312, The 2nd Engineering Bldg (Bldg# 208)
-      office_hours:
-        - 'Mon-Fri 10:00 to 18:00'
-        - 'Mon-Fri 10:00 to 18:00'
-        - 'Mon-Fri 10:00 to 18:00'
-        - 'Mon-Fri 10:00 to 18:00'
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
