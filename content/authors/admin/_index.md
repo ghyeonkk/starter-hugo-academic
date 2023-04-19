@@ -60,7 +60,7 @@ social:
     link: https://github.com/ghyeonkk
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/gyeong-hyeon-kim-3aa89817a/
+    link: https://www.linkedin.com/in/gyeong-hyeon-kim-3aa89817a/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,7 +77,6 @@ email: 'leonardkkh@cau.ac.kr'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 At present, I am enrolled in a Ph.D. program in Computer Science at Chung-Ang University, advised by Prof. Eunwoo Kim. My research pursuits encompass various areas such as video understanding, computer vision. If you share similar interests and wish to collaborate, do not hesitate to reach out to me.
 
 {style="text-align: justify;"}
