@@ -28,11 +28,7 @@ sections:
     content:
       title: Publications
       subtitle: more...
-      # text: |-
-        more...
-        # {{% callout note %}}
-        # [More Publications](./publication/).
-        # {{% /callout %}}
+      text: more...
       filters:
         folders:
           - publication
