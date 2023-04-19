@@ -11,8 +11,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
+      featured_only: true
       text:
-      featured: true
   # - block: collection
   #   id: featured
   #   content:
@@ -50,7 +50,7 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: 84 Heukseok-ro
-        city: Dongjak-gu, Seoul,
+        city: Dongjak-gu, Seoul
         region: South Korea
         postcode: '06974'
         # country: South Korea
