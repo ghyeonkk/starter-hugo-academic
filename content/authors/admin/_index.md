@@ -36,13 +36,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Chung-Ang University
-      year: 2012
+      year: 2023
     - course: M.S. in Computer Science
       institution: Chung-Ang University
-      year: 2009
+      year: 2021
     - course: B.S. in Computer Science and Engineering
       institution: Chung-Ang University
-      year: 2008
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,15 +69,15 @@ social:
     link: uploads/cv.pdf
     label: Download CV
     display:
-      header: true
+      header: False
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'leonardkkh@cau.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+At present, I am enrolled in a Ph.D. program in Computer Science at Chung-Ang University, advised by Prof. Eunwoo Kim. My research pursuits encompass various areas such as video understanding, computer vision. If you share similar interests and wish to collaborate, do not hesitate to reach out to me.
 
 {style="text-align: justify;"}
