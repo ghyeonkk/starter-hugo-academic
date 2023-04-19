@@ -28,9 +28,8 @@ sections:
     content:
       title: Publications
       subtitle: |-
-        {{% right %}}
-        more..
-        {{% right %}}
+        [more..]{{< ref "/publication/" >}}
+        [more..](/publication/)
       filters:
         folders:
           - publication
