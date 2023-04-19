@@ -34,7 +34,7 @@ sections:
     design:
       columns: '2'
       view: citation
-      text: more publications
+    text: more publications
   - block: contact
     id: contact
     content:
