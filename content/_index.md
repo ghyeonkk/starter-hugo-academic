@@ -28,7 +28,7 @@ sections:
     content:
       title: Publications
       subtitle: more...
-        url: '/publication/'
+        # url: '/publication/'
       filters:
         folders:
           - publication
