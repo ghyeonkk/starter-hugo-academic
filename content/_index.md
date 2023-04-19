@@ -27,7 +27,7 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: more...
+      subtitle: [more publications](./publication/)...
       # text: |-
         # {{% callout note %}}
         # [More Publications](./publication/).
