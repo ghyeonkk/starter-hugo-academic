@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gyeong-hyeon Kim (김경현)
+title: Gyeong-hyeon Kim
 
 # Full name (for SEO)
 first_name: Gyeong-hyeon
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: 김경현
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chung-Ang University
+  - name: Ph.D. Student | Chung-Ang University
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,6 +77,6 @@ email: 'leonardkkh@cau.ac.kr'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-At present, I am enrolled in a Ph.D. program in Computer Science at Chung-Ang University, advised by Prof. Eunwoo Kim. My research pursuits encompass various areas such as video understanding, computer vision. If you share similar interests and wish to collaborate, do not hesitate to reach out to me.
 
+At present, I am enrolled in a Ph.D. program in Computer Science at Chung-Ang University, advised by Prof. Eunwoo Kim. My research pursuits encompass various areas such as video understanding, computer vision. If you share similar interests and wish to collaborate, do not hesitate to reach out to me.
 {style="text-align: justify;"}
