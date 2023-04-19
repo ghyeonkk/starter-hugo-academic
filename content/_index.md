@@ -28,7 +28,7 @@ sections:
     content:
       title: Publications
       subtitle: |-
-        [more..](/publication/){style="text-align: right;"}
+        [more..{style="text-align: right;"}](/publication/ "more publications")
       filters:
         folders:
           - publication
