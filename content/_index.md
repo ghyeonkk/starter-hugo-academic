@@ -28,7 +28,9 @@ sections:
     content:
       title: Publications
       subtitle: |-
+        {{% right %}}
         more..
+        {{% right %}}
       filters:
         folders:
           - publication
