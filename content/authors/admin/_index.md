@@ -2,8 +2,6 @@
 # Display name
 title: Gyeong-hyeon Kim
 
-featured: true
-
 # Full name (for SEO)
 first_name: Gyeong-hyeon
 last_name: Kim

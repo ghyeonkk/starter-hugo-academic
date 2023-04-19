@@ -12,6 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      featured: true
   # - block: collection
   #   id: featured
   #   content:
