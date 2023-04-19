@@ -27,6 +27,7 @@ sections:
     id: publications
     content:
       title: Publications
+      text: [more publications...](./publication/)
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -35,7 +36,6 @@ sections:
         folders:
           - publication
         exclude_featured: true
-      text: [more publications...](./publication/)
     design:
       columns: '2'
       view: citation
