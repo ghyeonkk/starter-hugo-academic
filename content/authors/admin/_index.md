@@ -2,6 +2,8 @@
 # Display name
 title: Gyeong-hyeon Kim
 
+featured: true
+
 # Full name (for SEO)
 first_name: Gyeong-hyeon
 last_name: Kim
@@ -44,6 +46,7 @@ education:
       institution: Chung-Ang University
       year: 2014
 
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -78,5 +81,5 @@ email: 'leonardkkh@cau.ac.kr'
 highlight_name: true
 ---
 
-At present, I am pursuing a Ph.D. in computer science at Chung-Ang University, a member of the Vision and Learning Lab (VLLAB), advised by Prof. Eunwoo Kim. My research spans various fields, such as computer vision and video understanding. If you share similar research interests and are interested in collaborating, please feel free to contact me without hesitation.
+At present, I am pursuing a Ph.D. in computer science at Chung-Ang University, a member of the Vision and Learning Lab ([VLLAB](https://vllab.cau.ac.kr/)), advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research spans various fields, such as computer vision and video understanding. If you share similar research interests and are interested in collaborating, please feel free to contact me without hesitation.
 {style="text-align: justify;"}
