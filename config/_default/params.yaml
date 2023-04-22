@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ghyeonkk/starter-hugo-academic'
     content_dir: content
     branch: main
   avatar:
@@ -94,7 +94,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: '3'
     api_key: ''
     zoom: 15
 
