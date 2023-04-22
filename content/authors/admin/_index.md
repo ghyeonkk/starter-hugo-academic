@@ -79,5 +79,5 @@ email: 'leonardkkh@cau.ac.kr'
 highlight_name: true
 ---
 
-At present, I am pursuing a Ph.D. in computer science at Chung-Ang University, a member of the Vision and Learning Lab ([VLLAB](https://vllab.cau.ac.kr/)), advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research spans various fields, such as computer vision and video understanding. If you share similar research interests and are interested in collaborating, please feel free to contact me without hesitation.
+At present, I am pursuing a Ph.D. in computer science at Chung-Ang University, a member of the Vision and Learning Lab ([VLLAB](https://vllab.cau.ac.kr/)), advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research spans various fields, such as deep learning, computer vision and video understanding. If you share similar research interests and are interested in collaborating, please feel free to contact me without hesitation.
 {style="text-align: justify;"}
