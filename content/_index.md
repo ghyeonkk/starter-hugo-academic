@@ -39,7 +39,7 @@ sections:
       columns: '2'
       view: citation
   # - block: contact
-  - block: v1/contact
+  - block: contact
     id: contacts
     content:
       title: Contact
