@@ -29,20 +29,20 @@ bio:
 interests:
   - Video Understanding
   - Computer Vision
-  - Multi-modal Learning
+  - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science & Engineering
       institution: Chung-Ang University
-      year: 2023
-    - course: M.S. in Computer Science
+      year: 2023-present
+    - course: M.S. in Computer Science & Engineering
       institution: Chung-Ang University
-      year: 2021
-    - course: B.S. in Computer Science and Engineering
+      year: 2021-2023
+    - course: B.S. in Computer Science & Engineering
       institution: Chung-Ang University
-      year: 2014
+      year: 2014-2021
 
 
 # Social/Academic Networking
