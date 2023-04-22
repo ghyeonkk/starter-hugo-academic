@@ -87,8 +87,7 @@
   </div>
   <div class="col-12 col-lg-8">
     <!-- Added Biography -->
-    <!-- <div class="section-subheading">Biography</div> -->
-    <div><h2>Biography</h2></div>
+    <div class="section-subheading">Biography</div>
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $block.Params.widget $block.Title }}<h1>{{ $block.Title | markdownify | emojify }}</h1>{{ end }}
