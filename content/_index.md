@@ -37,7 +37,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: custom_list
+      view: citation
   # - block: contact
   - block: contact
     id: contacts
