@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2022-12-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1049/ell2.12678"
 draft: False
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Electronics Letters, vol. 58, no. 25, pp. 972‑974"
-publication_short: ""
+publication_short: "Electronics Letters"
 
 abstract: In this work, a new stacked encoder–decoder transformer (SEDT) model is proposed for action segmentation. SEDT is composed of a series of encoder–decoder modules, each of which consists of an encoder with self-attention layers and a decoder with cross-attention layers. By adding an encoder with self-attention before every decoder, it preserves local information along with global information. The proposed encoder–decoder pair also prevents the accumulation of errors that occur when features are propagated through decoders. Moreover, the approach performs boundary smoothing in order to handle ambiguous action boundaries. Experimental results for two popular benchmark datasets, “GTEA” and “50 Salads”, show that the proposed model is more effective in performance than existing temporal convolutional network based models and the attention-based model, ASFormer.
 
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

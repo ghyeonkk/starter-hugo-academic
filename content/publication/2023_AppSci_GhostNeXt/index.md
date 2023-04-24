@@ -29,13 +29,13 @@ abstract: Despite the continuous development of convolutional neural networks, i
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
+tags: 
 featured: false
 
 # links:
 # - name: ""
 #  url: ""
-url_pdf: https://www.mdpi.com/2076-3417/13/5/3301
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
