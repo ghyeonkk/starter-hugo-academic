@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-03-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/app13053301"
 draft: False
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Applied Sciences, vol. 13, no. 5"
-publication_short: ""
+publication_short: "Applied Sciences"
 
 abstract: Despite the continuous development of convolutional neural networks, it remains a challenge to achieve performance improvement with fewer parameters and floating point operations (FLOPs) as a light-weight model. In particular, excessive expressive power on a module is a crucial cause of skyrocketing the computational cost of the entire network. We argue that it is necessary to optimize the entire network by optimizing single modules or blocks of the network. Therefore, we propose GhostNeXt, a promising alternative to GhostNet, by adjusting the module configuration inside the Ghost block. We introduce a controller to select channel operations of the module dynamically. It holds a plug-and-play component that is more useful than the existing approach. Experiments on several classification tasks demonstrate that the proposed method is a better alternative to convolution layers in baseline models. GhostNeXt achieves competitive recognition performance compared to GhostNet and other popular models while reducing computational costs on the benchmark datasets.
 
@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
+#  url: ""
 url_pdf: https://www.mdpi.com/2076-3417/13/5/3301
 url_code: ''
 url_dataset: ''
