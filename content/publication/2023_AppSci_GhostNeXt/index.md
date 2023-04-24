@@ -30,6 +30,9 @@ abstract: Despite the continuous development of convolutional neural networks, i
 summary: 
 
 tags: 
+- Module Configuration
+- Resource-Efficient Network
+- Network Design
 featured: false
 
 # links:
