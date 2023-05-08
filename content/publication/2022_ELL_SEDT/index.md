@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678'
 url_code: ''
 url_dataset: ''
 url_poster: ''
