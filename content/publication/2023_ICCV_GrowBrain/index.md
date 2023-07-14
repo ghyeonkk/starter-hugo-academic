@@ -1,5 +1,5 @@
 ---
-title: "GhostNeXt: Rethinking Module Configurations for Efficient Model Design"
+title: "Growing a Brain with Sparsity‑Inducing Generation for Continual Learning"
 authors:
 - Hyundong Jin
 - admin
