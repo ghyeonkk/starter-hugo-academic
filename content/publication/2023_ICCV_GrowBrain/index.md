@@ -8,12 +8,12 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-07-14T00:00:00Z"
-doi: ""
+date: "2023-10-01T00:00:00Z"
+doi: "https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html"
 draft: False
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-14T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
