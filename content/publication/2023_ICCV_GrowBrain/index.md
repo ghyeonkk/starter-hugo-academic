@@ -30,16 +30,16 @@ abstract: Deep neural networks suffer from catastrophic forgetting in continual 
 summary: 
 
 tags: 
-- 
-- 
-- 
+- Continual Learning
+- Parameter Allocation
+- Hyper-network
 featured: false
 
 # links:
 # - name: ""
 #  url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.pdf'
+url_code: 'https://github.com/Jin0316/GrowBrain'
 url_dataset: ''
 url_poster: ''
 url_project: ''
