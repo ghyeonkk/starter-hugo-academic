@@ -29,8 +29,9 @@ abstract: In this work, a new stacked encoder–decoder transformer (SEDT) model
 summary: 
 
 tags:
-- Action Segmentation
 - Video Understanding
+- Action Segmentation
+- Boundary Smoothing
 featured: false
 
 # links:
