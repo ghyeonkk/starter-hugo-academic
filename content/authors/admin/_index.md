@@ -56,9 +56,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=4Xu4ojUAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ghyeonkk
+  # - icon: github
+    # icon_pack: fab
+    # link: https://github.com/ghyeonkk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gyeong-hyeon-kim-3aa89817a/
