@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-05-12T00:00:00Z"
-doi: "https://doi.org/10.1109/ICTC62082.2024.10827159"
+doi: "https://doi.org/10.1109/ACCESS.2025.3569263"
 draft: False
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "IEEE Access"
 publication_short: ""
 
-abstract: Class-incremental semantic segmentation (CSS) aims to continuously classify every pixel in an image to its corresponding semantic class. Existing CSS models suffer from two challenges"\\:" catastrophic forgetting and background shift. Moreover, when new classes are introduced over time, they struggle to differentiate between new and old classes that are visually similar. We refer to this problem as class confusion. To address the above issues, we propose a novel CSS approach to mitigate class confusion, called MC-Seg. First, we introduce a graph attention decoder (GAD) to capture semantic relationships between embeddings, enabling clearer segmentation across classes. GAD uses joint embeddings as nodes in a graph, enabling visual embeddings to incorporate class information. Furthermore, we propose similarity-aware class discrimination (SCD) to prevent old knowledge from being overwritten by new knowledge, particularly when the two are visually similar. Since visually similar classes are more likely to be confused with each other, SCD increases the distances between their embeddings to preserve essential distinctions. Moreover, to retain the knowledge of other, non-similar classes, we maintain the distances between their embeddings. Extensive experiments on PASCAL VOC 2012, ADE20K and PASCAL Context show that MC-Seg outperforms state-of-the-art CSS methods, especially in alleviating class confusion in incremental learning.
+abstract: Class-incremental semantic segmentation (CSS) aims to continuously classify every pixel in an image to its corresponding semantic class. Existing CSS models suffer from two challenges`:` catastrophic forgetting and background shift. Moreover, when new classes are introduced over time, they struggle to differentiate between new and old classes that are visually similar. We refer to this problem as class confusion. To address the above issues, we propose a novel CSS approach to mitigate class confusion, called MC-Seg. First, we introduce a graph attention decoder (GAD) to capture semantic relationships between embeddings, enabling clearer segmentation across classes. GAD uses joint embeddings as nodes in a graph, enabling visual embeddings to incorporate class information. Furthermore, we propose similarity-aware class discrimination (SCD) to prevent old knowledge from being overwritten by new knowledge, particularly when the two are visually similar. Since visually similar classes are more likely to be confused with each other, SCD increases the distances between their embeddings to preserve essential distinctions. Moreover, to retain the knowledge of other, non-similar classes, we maintain the distances between their embeddings. Extensive experiments on PASCAL VOC 2012, ADE20K and PASCAL Context show that MC-Seg outperforms state-of-the-art CSS methods, especially in alleviating class confusion in incremental learning.
 # Summary. An optional shortened abstract.
 summary: 
 

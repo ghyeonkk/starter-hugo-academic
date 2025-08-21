@@ -4,9 +4,9 @@ authors:
 - admin
 - Nayoung Ko
 - Eunwoo Kim
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-10-01T00:00:00Z"
 doi: "https://doi.org/10.1109/ICTC62082.2024.10827159"
 draft: False
@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: " 2024 15th International Conference on Information and Communication Technology Convergence (ICTC)"
-publication_short: ""
+publication_short: "ICTC'24"
 
 abstract: Class-incremental semantic segmentation faces challenges in retaining the knowledge of old classes while learning new ones. Catastrophic forgetting and background shift are the primary hurdles causing performance degradation. Moreover, class confusion arises when new classes share categorical similarities with existing ones. Due to class confusion, the class-incremental semantic segmentation model overwrites the knowledge of old classes with similar new classes. In this paper, we introduce Similarity-aware Class Discrimination (SCD) to address the class confusion problem. SCD increases the distance between classes that share categorical similarities (i.e., visually similar but different classes) in the embedding space, preventing new knowledge from overwriting old knowledge. This approach encourages the model to discriminate between similar categorical classes, mitigating class confusion in class-incremental semantic segmentation. Our method surpasses existing CNN-based and transformer-based class-incremental semantic segmentation methods in PASCAL VOC 2012.
 # Summary. An optional shortened abstract.
