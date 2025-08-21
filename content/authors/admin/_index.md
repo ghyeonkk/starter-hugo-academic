@@ -14,11 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 김경현
+# role: 김경현
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ph.D. Student at Chung-Ang University
+  - name: VLLAB @ Chung-Ang University
+  url: https://vllab.cau.ac.kr/
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
